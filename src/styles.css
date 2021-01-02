@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 2rem;
+  width: 80%;
+  font-size: xx-large;
+}
+
+.emj-output {
+  padding: 1rem;
+  color: green;
+}
+
+body {
+  background-color: #eef2ff;
+}
